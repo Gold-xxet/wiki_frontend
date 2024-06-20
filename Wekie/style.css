@@ -1,0 +1,130 @@
+body
+{
+    font: 15px/1.5 Arial, Helvetica, sans-serif ;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.container
+{
+    width: 80%;
+    margin:auto;
+    overflow: hidden
+}
+
+header
+{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.nav
+{
+    float: right;
+    margin-top: -65px;
+}
+
+#image
+{
+    margin-top: px;  
+}
+
+header li
+{
+    margin-top: 0px;
+    float: right;
+    display:inline;
+    padding:0 15px 0 15px;
+}
+header button
+{
+    border: none;
+    padding: 5px;
+    font-size: large;
+    background-color: rgba(255, 255, 255, 0);
+}
+header button:hover
+{
+    background-color:#610062;
+    color: white;
+    border-radius:25px;
+    padding: 7px 12px 7px 12px;
+}
+header #sign:hover
+{
+    background-color: rgba(255, 255, 255, 0);
+    border: solid;
+    border-color: black;
+    color: black;
+}
+#sign
+{
+    background-color:#610062;
+    color: white;
+    border-radius:25px;
+    padding: 7px 12px 7px 12px;
+}
+
+/* body */
+.text{
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.bodyimg{
+    display: inline-block;
+    padding-left: 100px;
+}
+#body{
+    
+    text-align: center;
+    justify-content: center;
+}
+.grow{
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px; 
+}
+.evic{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: #8f0990;
+}
+#boomba
+{
+    background-color:#610062;
+    color: white;
+    border-radius:25px;
+    padding: 10px;
+}
+#boomba:hover
+{
+    background-color:#610062;
+    color: white;
+    border-radius:25px;
+    padding: 7px 12px 7px 12px;
+}
+
+/* Footer*/
+footer{
+    background-color:#9A809B;
+    text-align: center;
+}
+.img{
+    height: 100px;
+    background-color:#9A809B;
+}
+footer p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.foot
+{
+    width: 90%;
+    margin:auto;
+    overflow: hidden
+}
